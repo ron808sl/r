@@ -1,0 +1,33 @@
+h1 {
+    color: brown;
+    margin:30px;
+}
+
+* {
+    border: solid;
+}
+.header{
+    background-color: rgb(20, 220, 120);
+    display: flex;
+}
+.menu{
+    background-color: rgb(216, 231, 9);
+    justify-content: space-between;
+    display: flex;
+}
+.image{
+    background-color: darkorange;
+    display: flex;
+}
+.images{
+    background-color: yellowgreen;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+    display: flex;
+}
+.icon{
+    background-color: tomato;
+    justify-content: space-between;
+    display: flex;
+}
+ 
